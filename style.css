@@ -1,0 +1,32 @@
+.poster{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+.memeimg{
+ border: 5px solid white;
+ width: 75%;
+}
+
+h1{
+    font-size: large;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.poster>p{
+white-space: pre-line; /*Important*/
+text-align: left;
+margin-left: 25%;
+font-style: italic;
+font-family: monospace;
+}
+
+body{
+    background-color: black;
+}
